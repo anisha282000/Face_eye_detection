@@ -1,5 +1,5 @@
 # Face_eye_detection
-This is a python based Face and Eye Detection project using computer vision and Haar Cascade Classifier.
+This is a python Face and Eye Detection project using computer vision and Haar Cascade Classifier.
 
 ## Installation
 
